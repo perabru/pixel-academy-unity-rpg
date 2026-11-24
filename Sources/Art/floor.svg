@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+<title>Piso do santuário — Ecos de Aurora</title>
+<desc>Original pixel art. Copyright 2026 Pixel Academy. MIT License; see LICENSE.txt.</desc>
+<rect x="0" y="0" width="32" height="32" fill="#536877"/>
+<rect x="1" y="1" width="14" height="14" fill="#84989b"/>
+<rect x="1" y="1" width="14" height="1" fill="#b1bfb1"/>
+<rect x="14" y="1" width="1" height="14" fill="#71878e"/>
+<rect x="17" y="1" width="14" height="14" fill="#84989b"/>
+<rect x="17" y="1" width="14" height="1" fill="#b1bfb1"/>
+<rect x="30" y="1" width="1" height="14" fill="#71878e"/>
+<rect x="1" y="17" width="14" height="14" fill="#84989b"/>
+<rect x="1" y="17" width="14" height="1" fill="#b1bfb1"/>
+<rect x="14" y="17" width="1" height="14" fill="#71878e"/>
+<rect x="17" y="17" width="14" height="14" fill="#84989b"/>
+<rect x="17" y="17" width="14" height="1" fill="#b1bfb1"/>
+<rect x="30" y="17" width="1" height="14" fill="#71878e"/>
+<rect x="8" y="7" width="4" height="1" fill="#72858c"/>
+<rect x="10" y="8" width="1" height="4" fill="#72858c"/>
+<rect x="22" y="23" width="3" height="1" fill="#bfd0bc"/>
+</svg>

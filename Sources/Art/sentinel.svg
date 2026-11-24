@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+<title>Sentinela violeta — Ecos de Aurora</title>
+<desc>Original pixel art. Copyright 2026 Pixel Academy. MIT License; see LICENSE.txt.</desc>
+<rect x="5" y="29" width="23" height="2" fill="#23344766"/>
+<rect x="7" y="25" width="7" height="5" fill="#202b3d"/>
+<rect x="19" y="25" width="7" height="5" fill="#202b3d"/>
+<polygon points="10,5 22,5 22,8 27,8 27,13 30,13 30,24 25,24 25,28 7,28 7,24 2,24 2,13 5,13 5,8 10,8" fill="#202b3d"/>
+<rect x="7" y="9" width="18" height="17" fill="#6f4aa2"/>
+<rect x="9" y="10" width="14" height="15" fill="#9471cc"/>
+<rect x="3" y="14" width="6" height="9" fill="#573779"/>
+<rect x="24" y="14" width="5" height="9" fill="#573779"/>
+<rect x="5" y="12" width="5" height="4" fill="#ba97ef"/>
+<rect x="22" y="12" width="5" height="4" fill="#aa85e5"/>
+<polygon points="8,4 12,7 16,2 20,7 24,4 22,12 10,12" fill="#ecd279"/>
+<rect x="10" y="11" width="12" height="5" fill="#3c315d"/>
+<rect x="11" y="12" width="3" height="2" fill="#77f3f4"/>
+<rect x="18" y="12" width="3" height="2" fill="#77f3f4"/>
+<polygon points="16,17 20,21 16,25 12,21" fill="#342746"/>
+<polygon points="16,18 19,21 16,24 13,21" fill="#7be8e9"/>
+<polygon points="16,18 19,21 16,21" fill="#ecfff7"/>
+<rect x="7" y="27" width="6" height="2" fill="#8c67bf"/>
+<rect x="20" y="27" width="6" height="2" fill="#8c67bf"/>
+</svg>

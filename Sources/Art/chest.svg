@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+<title>Baú do vale — Ecos de Aurora</title>
+<desc>Original pixel art. Copyright 2026 Pixel Academy. MIT License; see LICENSE.txt.</desc>
+<rect x="3" y="26" width="26" height="3" fill="#26344755"/>
+<rect x="3" y="11" width="26" height="16" fill="#202b3d"/>
+<rect x="5" y="8" width="22" height="5" fill="#202b3d"/>
+<rect x="5" y="12" width="22" height="13" fill="#7d4a35"/>
+<rect x="6" y="10" width="20" height="8" fill="#b87945"/>
+<rect x="7" y="10" width="18" height="2" fill="#e5a763"/>
+<rect x="5" y="18" width="22" height="2" fill="#202b3d"/>
+<rect x="7" y="10" width="3" height="15" fill="#e0b85d"/>
+<rect x="22" y="10" width="3" height="15" fill="#e0b85d"/>
+<rect x="8" y="10" width="1" height="15" fill="#fff0a4"/>
+<rect x="23" y="10" width="1" height="15" fill="#f6db87"/>
+<rect x="13" y="16" width="6" height="7" fill="#202b3d"/>
+<rect x="14" y="17" width="4" height="5" fill="#f3d477"/>
+<rect x="15" y="19" width="2" height="2" fill="#754b37"/>
+</svg>

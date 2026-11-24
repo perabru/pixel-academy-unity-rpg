@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+<title>Mestra Elara — Ecos de Aurora</title>
+<desc>Original pixel art. Copyright 2026 Pixel Academy. MIT License; see LICENSE.txt.</desc>
+<rect x="7" y="29" width="19" height="2" fill="#24344955"/>
+<rect x="25" y="7" width="2" height="23" fill="#202b3d"/>
+<rect x="25" y="9" width="1" height="20" fill="#b58958"/>
+<rect x="23" y="4" width="5" height="5" fill="#202b3d"/>
+<rect x="24" y="5" width="3" height="3" fill="#76ddc8"/>
+<polygon points="10,13 20,13 24,29 6,29" fill="#202b3d"/>
+<polygon points="11,15 19,15 22,28 8,28" fill="#64547a"/>
+<polygon points="12,15 15,17 14,28 9,28" fill="#9c88ad"/>
+<rect x="7" y="18" width="4" height="7" fill="#78628c"/>
+<rect x="20" y="18" width="4" height="7" fill="#78628c"/>
+<rect x="7" y="23" width="3" height="3" fill="#dfaa7c"/>
+<rect x="21" y="22" width="4" height="3" fill="#efc28c"/>
+<rect x="10" y="3" width="10" height="2" fill="#202b3d"/>
+<rect x="8" y="5" width="14" height="10" fill="#202b3d"/>
+<rect x="10" y="5" width="10" height="9" fill="#dca778"/>
+<rect x="12" y="5" width="8" height="8" fill="#f0c799"/>
+<rect x="10" y="4" width="10" height="3" fill="#edf1e5"/>
+<rect x="9" y="7" width="3" height="6" fill="#a7b7bb"/>
+<rect x="20" y="7" width="2" height="6" fill="#dce9dc"/>
+<rect x="12" y="9" width="2" height="2" fill="#202b3d"/>
+<rect x="18" y="9" width="2" height="2" fill="#202b3d"/>
+<polygon points="11,12 14,13 17,12 20,12 19,16 16,19 12,16" fill="#dce9dc"/>
+<rect x="14" y="14" width="4" height="2" fill="#ffffff"/>
+<rect x="14" y="20" width="4" height="3" fill="#e7cc7a"/>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+<title>Fragmento de aurora — Ecos de Aurora</title>
+<desc>Original pixel art. Copyright 2026 Pixel Academy. MIT License; see LICENSE.txt.</desc>
+<rect x="9" y="29" width="14" height="1" fill="#26344744"/>
+<polygon points="16,2 25,12 23,22 16,29 9,22 7,12" fill="#202b3d"/>
+<polygon points="16,4 23,12 21,21 16,27 11,21 9,12" fill="#2bbccf"/>
+<polygon points="16,4 16,15 9,12" fill="#c3fbeb"/>
+<polygon points="16,4 23,12 16,15" fill="#70e9e0"/>
+<polygon points="9,12 16,15 16,27 11,21" fill="#1b8cb4"/>
+<polygon points="23,12 21,21 16,27 16,15" fill="#43cdd7"/>
+<rect x="3" y="7" width="1" height="5" fill="#cdf9ee"/>
+<rect x="1" y="9" width="5" height="1" fill="#cdf9ee"/>
+</svg>

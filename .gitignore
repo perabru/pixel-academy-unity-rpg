@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+Builds/
+*.csproj
+*.sln
+*.user
+.vs/
+.idea/
+.DS_Store
+*.ulf
+*.alf
+.env*
+Validation/bin/
+Validation/obj/

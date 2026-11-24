@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+<title>Moeda de aurora — Ecos de Aurora</title>
+<desc>Original pixel art. Copyright 2026 Pixel Academy. MIT License; see LICENSE.txt.</desc>
+<polygon points="11,2 22,2 27,7 29,12 29,21 25,27 21,30 10,30 5,25 3,20 3,11 6,6" fill="#202b3d"/>
+<polygon points="11,4 21,4 25,8 27,12 27,21 23,26 20,28 11,28 7,24 5,20 5,12 8,7" fill="#d8a543"/>
+<polygon points="11,6 20,6 24,10 25,14 25,20 21,25 12,25 8,21 7,16 9,10" fill="#f3d273"/>
+<rect x="10" y="9" width="3" height="3" fill="#fff2ae"/>
+<rect x="8" y="12" width="2" height="5" fill="#fff2ae"/>
+<polygon points="16,10 20,16 16,22 12,16" fill="#b57a38"/>
+<polygon points="16,11 18,16 16,19 14,16" fill="#ffe69a"/>
+</svg>

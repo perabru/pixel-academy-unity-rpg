@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+<title>Poção rubi — Ecos de Aurora</title>
+<desc>Original pixel art. Copyright 2026 Pixel Academy. MIT License; see LICENSE.txt.</desc>
+<rect x="10" y="28" width="13" height="2" fill="#26344755"/>
+<rect x="12" y="3" width="8" height="5" fill="#202b3d"/>
+<rect x="13" y="4" width="6" height="3" fill="#aa7a4e"/>
+<rect x="11" y="8" width="10" height="6" fill="#202b3d"/>
+<polygon points="11,12 21,12 25,17 25,25 22,28 10,28 7,25 7,17" fill="#202b3d"/>
+<polygon points="12,13 20,13 23,17 23,24 21,26 11,26 9,24 9,17" fill="#c6f0e4"/>
+<rect x="13" y="8" width="6" height="5" fill="#c6f0e4"/>
+<rect x="14" y="8" width="3" height="6" fill="#f4fff0"/>
+<polygon points="10,18 22,18 22,24 20,25 12,25 10,23" fill="#e75c76"/>
+<rect x="12" y="19" width="3" height="3" fill="#ffa2ac"/>
+<rect x="17" y="23" width="4" height="2" fill="#b94366"/>
+<rect x="10" y="15" width="2" height="3" fill="#faffed"/>
+</svg>

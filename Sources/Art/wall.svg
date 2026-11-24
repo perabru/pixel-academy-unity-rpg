@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+<title>Parede antiga — Ecos de Aurora</title>
+<desc>Original pixel art. Copyright 2026 Pixel Academy. MIT License; see LICENSE.txt.</desc>
+<rect x="0" y="0" width="32" height="32" fill="#354657"/>
+<rect x="1" y="1" width="14" height="6" fill="#718489"/>
+<rect x="1" y="1" width="14" height="1" fill="#a5b3a8"/>
+<rect x="1" y="6" width="14" height="1" fill="#526777"/>
+<rect x="17" y="1" width="14" height="6" fill="#718489"/>
+<rect x="17" y="1" width="14" height="1" fill="#a5b3a8"/>
+<rect x="17" y="6" width="14" height="1" fill="#526777"/>
+<rect x="-7" y="9" width="14" height="6" fill="#718489"/>
+<rect x="-7" y="9" width="14" height="1" fill="#a5b3a8"/>
+<rect x="-7" y="14" width="14" height="1" fill="#526777"/>
+<rect x="9" y="9" width="14" height="6" fill="#718489"/>
+<rect x="9" y="9" width="14" height="1" fill="#a5b3a8"/>
+<rect x="9" y="14" width="14" height="1" fill="#526777"/>
+<rect x="25" y="9" width="14" height="6" fill="#718489"/>
+<rect x="25" y="9" width="14" height="1" fill="#a5b3a8"/>
+<rect x="25" y="14" width="14" height="1" fill="#526777"/>
+<rect x="1" y="17" width="14" height="6" fill="#718489"/>
+<rect x="1" y="17" width="14" height="1" fill="#a5b3a8"/>
+<rect x="1" y="22" width="14" height="1" fill="#526777"/>
+<rect x="17" y="17" width="14" height="6" fill="#718489"/>
+<rect x="17" y="17" width="14" height="1" fill="#a5b3a8"/>
+<rect x="17" y="22" width="14" height="1" fill="#526777"/>
+<rect x="-7" y="25" width="14" height="6" fill="#718489"/>
+<rect x="-7" y="25" width="14" height="1" fill="#a5b3a8"/>
+<rect x="-7" y="30" width="14" height="1" fill="#526777"/>
+<rect x="9" y="25" width="14" height="6" fill="#718489"/>
+<rect x="9" y="25" width="14" height="1" fill="#a5b3a8"/>
+<rect x="9" y="30" width="14" height="1" fill="#526777"/>
+<rect x="25" y="25" width="14" height="6" fill="#718489"/>
+<rect x="25" y="25" width="14" height="1" fill="#a5b3a8"/>
+<rect x="25" y="30" width="14" height="1" fill="#526777"/>
+<rect x="3" y="23" width="5" height="2" fill="#71946a"/>
+<rect x="23" y="6" width="4" height="2" fill="#71946a"/>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges">
+<title>Coração de energia — Ecos de Aurora</title>
+<desc>Original pixel art. Copyright 2026 Pixel Academy. MIT License; see LICENSE.txt.</desc>
+<polygon points="4,6 12,6 16,10 20,6 28,6 31,9 31,17 16,31 1,17 1,9" fill="#202b3d"/>
+<polygon points="5,8 11,8 16,13 21,8 27,8 29,10 29,16 16,28 3,16 3,10" fill="#e86578"/>
+<polygon points="3,13 8,19 16,25 24,19 29,13 29,16 16,28 3,16" fill="#b63d62"/>
+<rect x="6" y="10" width="5" height="2" fill="#ffb2ad"/>
+<rect x="5" y="12" width="2" height="4" fill="#ffb2ad"/>
+</svg>
